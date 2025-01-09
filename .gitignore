@@ -171,7 +171,7 @@ cython_debug/
 .pypirc
 
 # data
-*.csv
+# *.csv
 
 # test files
-test*
+# test*
