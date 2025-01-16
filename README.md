@@ -1,5 +1,6 @@
 ###RAG homework2:
 The code was developed in Google Colab.
+Source code from https://github.com/hzeng-otterai/chatbot-example/tree/main/backend_langchain
 
 ###RAG homework1. 
 
